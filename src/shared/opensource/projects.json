@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "Bitcoin EDA and Prediction",
+      "createdAt": "2021-08-24T04:18:19Z",
+      "url": "https://github.com/ashutosh1919/mdp-diffusion",
+      "description": "Machine Learning univ project to analyze and predict the future price of Bitcoin.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Guest House Booking Site",
+      "createdAt": "2021-03-27T20:41:33Z",
+      "url": "https://github.com/ashutosh1919/explainable-cnn",
+      "description": "Full stack light weight website developed for a local business.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "simple-icons:django"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Ecommerce website",
+      "createdAt": "2022-05-10T16:26:54Z",
+      "url": "https://github.com/ashutosh1919/masterPortfolio",
+      "description": "Full stack ecommerce website hosted in cloud.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "ASP.NET",
+          "iconifyClass": "logos-dotnet"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "logos-azure"
+        }
+      ]
+    }
+  ]
+}
