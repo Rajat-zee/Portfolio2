@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A driven individual passionate about developing end-to-end products that build sustainable, scalable social and technical systems to create meaningful impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1ru34BqFFu92h81eAW3iDjistydppP6v6/view?usp=sharing",
+    "https://drive.google.com/file/d/1GFhOWUfdve2hYHWz8DARAKEoYdXLQ8Ok/view?usp=sharing",
   githubProfile: "https://github.com/Rajat-zee",
 };
 
