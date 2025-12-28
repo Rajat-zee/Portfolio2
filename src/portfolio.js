@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A driven individual passionate about developing end-to-end products that build sustainable, scalable social and technical systems to create meaningful impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1P54FIxY83oD15t1Hqa3bqm2IjOLb-Ima/view?usp=sharing",
+    "https://drive.google.com/file/d/12WrBTDFuZJq16XBC9LCFSWHIPwa254J6/view?usp=sharing",
   githubProfile: "https://github.com/Rajat-zee",
 };
 
@@ -263,11 +263,22 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Mid Level .NET Developer",
+          company: "Techolution",
+          company_url: "https://www.techolution.com/",
+          logo_path: "techolution.png",
+          duration: "2025 - 2025",
+          location: "Hyderabad, India",
+          description:
+            "Joined midway through a US-based enterprise project, handled a 30% increase in client-requested scope, and enabled the team to deliver 10% ahead of schedule in an Agile, cross-functional environment. Delivered ISO-tested and approved solutions for a Google-funded project, maintaining enterprise-grade quality standards while overseeing critical backend modules and ensuring seamless deployment. Recognized as Employee of the Month twice for immediate impact and consistently high performance. Managed bug fixes and developed new features in C# .NET Core, SQL Server, gRPC, and GCP, ensuring smooth progress of previously stalled modules",
+          color: "white",
+        },
+        {
           title: "Associate 2",
           company: "PwC Acceleration Centre",
           company_url: "https://www.pwc.in/",
           logo_path: "pwc.png",
-          duration: "Jul 2023 - Oct 2024",
+          duration: "2023 - 2024",
           location: "Bengaluru, India",
           description:
             "Worked for a US based Telecom giant across numerous joint initiatives led by PwC, engaging with multiple third-party firms. Within diverse teams, I embraced various responsibilities and notably served as an offshore lead. Collaborating seamlessly with both onshore and offshore developers, as well as our client's developers, I facilitated effective communication and synergy. Developed new microservices and improved legacy implementations.",
@@ -278,7 +289,7 @@ const experience = {
           company: "PwC Acceleration Centre",
           company_url: "https://www.pwc.in/",
           logo_path: "pwc.png",
-          duration: "Aug 2022 - Jul 2023",
+          duration: "2022 - 2023",
           location: "Bengaluru, India",
           description:
             "Developed solutions across multiple US based client projects as Azure cloud developer. Operating within an offshore Agile environment, I fostered collaborative efforts to drive project success. My focus on writing robust code, coupled with meticulous documentation and rigorous testing, guaranteed the delivery of reliable software solutions.",
